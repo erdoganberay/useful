@@ -1,9 +1,16 @@
 ## Links
-- [D2L](https://learn.georgebrown.ca)
-- [AtKlass](https://app.atklass.com)
-- [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
-- [Quizatklass](https://app.quizatclass.com)
-- [Lecture Summaries](comp1238.md)
+- School Work
+  - [D2L](https://learn.georgebrown.ca)
+  - [AtKlass](https://app.atklass.com)
+  - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
+  - [Quizatklass](https://app.quizatclass.com)
+- Lectures and Learning Stuff
+    - [Lecture Summaries](comp1238.md)
+    - [Exploring How Computers Work](https://youtu.be/QZwneRb-zqA)
+    - [A Crash Course in Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+    - [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer)
+    - [CS50: Introduction to Computer Science ](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
+    - [Tutorial On Pointers And Arrays In C](https://github.com/jflaherty/ptrtut13)
 ## Schedule
 - Monday
   - [10:00-COMP1236 | Fundamentals Of Computing Logic | (lecture)](https://learn.georgebrown.ca/d2l/home/337951)

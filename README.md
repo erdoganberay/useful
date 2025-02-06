@@ -11,6 +11,9 @@
     - [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)](https://www.coursera.org/learn/build-a-computer)
     - [CS50: Introduction to Computer Science ](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
     - [Tutorial On Pointers And Arrays In C](https://github.com/jflaherty/ptrtut13)
+    - [Github C Tutorial](https://github.com/practical-tutorials/project-based-learning#cc)
+    - [Teachyourselfcs.com](https://teachyourselfcs.com/)
+  
 ## Schedule
 - Monday
   - [10:00-COMP1236 | Fundamentals Of Computing Logic | (lecture)](https://learn.georgebrown.ca/d2l/home/337951)

@@ -16,7 +16,7 @@
   
 ## Schedule
 - Monday
-  - [10:00-COMP1236 | Fundamentals Of Computing Logic | (lecture)](https://learn.georgebrown.ca/d2l/home/337951)
+  - [10:00-COMP1236  Fundamentals Of Computing Logic  (lecture)](https://learn.georgebrown.ca/d2l/home/337951)
   - [13:00-COMP1238 | Introduction to Data Management | (lecture)](https://learn.georgebrown.ca/d2l/home/334969)
   - [16:00-COMP1151 | IT Essentials | (lecture)](https://learn.georgebrown.ca/d2l/home/335096)
 - Tuesday
